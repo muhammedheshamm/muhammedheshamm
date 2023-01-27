@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A computer science and engineering student at the German University In Cairo who is passionate about full-stack web development</h3>
+<h3 align="center">A computer science and engineering student at the German University In Cairo </br> who is passionate about full-stack web development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
